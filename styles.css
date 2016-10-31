@@ -1,0 +1,129 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+*{
+  box-sizing: border-box;
+}
+
+p{
+  margin: 10px;
+  border: 5px solid black;
+  background: red;
+  height: 100px;
+  width: 30%;
+}
+
+p.padding {
+  padding: 10px;
+}*/
+
+/*body {
+  background: lemonchiffon;
+  text-align: center;
+}
+
+p .blue {
+  background: blue;
+}
+
+img {
+  width: 300px;
+}
+
+img.thumbnail {
+  width: 50px;
+  width: 50px;
+  text-align: left;
+}*/
+
+
+
+
+
+/**{
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+
+nav.header a{
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+
+div.blog {
+  float: left;
+  width: 33%;
+  padding: 8px;
+}
+
+div.blog h2 {
+  border-bottom: 2px solid black;
+  padding-bottom: 5px;
+}
+
+section.about div.description{
+  float: left;
+  width: 66%;
+}
+
+section.about div#quotes {
+  float: left;
+  width: 30%;
+}
+
+a img {
+  height: 50px;
+  width: 50px;
+}
+
+footer {
+  display: flex;
+  clear: both;
+  background: #ccc
+}
+
+footer h1{
+  flex: 3;
+}
+
+footer nav {
+  flex: 1;
+}
+
+
+body {
+  width: 80%;
+  margin: auto;
+  /*background-image: url(https://i.ytimg.com/vi/JAacuJoK_bI/hqdefault.jpg);*/
